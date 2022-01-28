@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Machine learning on Udemy, as well as Cyber Secuity, C#, C++ and more in-depth knowledge of linux.  
 - 
 - 💞️ I’m looking to collaborate on anything in my areas of interest. Research would be nice.  contact me if you're interested.
+-
+- !!!!!!!!!!ALL OF MY ACTIVE REPOSITORIES ARE PRIVATE!!!!! 
 - 
 - 📫 How to reach me: Jonathan@NewMexicoMathematical.org
 
