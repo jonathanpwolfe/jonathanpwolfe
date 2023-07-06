@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jonathanpwolfe and I'm a software developer and am completing a Masters in Cybersecurity from New York University. Located in Albuquerque, New Mexico where i graduated in 2017 with a degree in applied mathematics. I tutor Astronomy, Physics and programming.
-- 
+- 👋 Hi, I’m @jonathanpwolfe!  Rust is the new way...
 -  I’m interested in developing apps of a musical nature the most. I am currently developing a guitar based music theory application.
 - 
 -  While Java and rust are my best languages, I frequently code in Python, (Java/Type)Script or C/C++.
