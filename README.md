@@ -5,7 +5,7 @@
 - 
 -  I’m looking to collaborate on a musical, or security project.  contact me if you're interested.
 -
-- i am also github.com/howamiroot
+- i am also @howamiroot
   
 
 <!---
