@@ -5,7 +5,7 @@
 - 
 -  I’m looking to collaborate on a musical, or security project.  contact me if you're interested.
 -
-- i am also @howamiroot on github and own the mathcoded organization
+- i am also @howamiroot on github
   
 
 <!---
