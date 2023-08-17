@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathanpwolfe sole developer of the Pleiades crate for machine learning.
+- 👋 Hi, I’m @jonathanpwolfe developer
   
 
 <!---
