@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanpwolfe developer.  this is my main account.  recently got access back to it.
 
-- i own @mathcoded and @mathcoded1
+
   
 
 <!---
